@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hossam El Hawy</h1>
-<h3 align="center">A passionate Embedded Software Engineer from Egypt</h3>
+<h3 align="center">A passionate Software Engineer from Egypt</h3>
 
 - 🔭 I’m currently a **Student**
 
-- 🌱 I’m currently learning **Embedded Systems Dibloma**
+- 🌱 I’m currently learning **Software engineering**
 
 - 📫 How to reach me **eng.hossamelhawy@gmail.com**
 
